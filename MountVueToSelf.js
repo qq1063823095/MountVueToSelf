@@ -1,1 +1,1 @@
-self.Vue = Vue
+self.Vue = Vue;
